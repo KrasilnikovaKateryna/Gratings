@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q69IuSRmC3kAaFg+NIdLlpYTSvjXJmMd8GimAZEEStKdm0ScfL6XaSmI5RHG5OEJkKsWQMHsAeROLi6dO2ky4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\Grating\\Grating\\Grating.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
